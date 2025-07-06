@@ -1,7 +1,7 @@
 # Proyecto POO - Unidad 2
 
 ** Descripción
-Este proyecto representa una aplicación desarrollada con Programación Orientada a Objetos en Java. Incluye clases como `Pelicula`, `SerieDeTV`, `Documental`, así como clases adicionales `Actor`, `Temporada`, `Investigador`, y subclases propias.
+Este proyecto representa una aplicación desarrollada con Programación Orientada a Objetos en Java. Incluye clases como `Pelicula`, `SerieDeTV`, `Documental`, así como clases adicionales `Actor`, `Temporada`, `Investigador`, y subclases propias como `TikTok` y `Audio Libros`.
 
 ## Tecnologías utilizadas
 - Java
